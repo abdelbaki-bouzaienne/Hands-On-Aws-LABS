@@ -69,3 +69,22 @@ https://lnkd.in/d_zmSJNt
 15. Migrate a Git Repository to AW
 
 https://lnkd.in/d3THybRe
+
+/******************************************************************************************************
+That's why I have hand selected (no pun intended 😁) 5 hands-on AWS projects for you to attempt.
+
+1️⃣ Amazon RDS Backup & Restore Using AWS Backup:
+https://lnkd.in/gB7geyrK
+
+2️⃣ Deploy a Web Application on Amazon EC2:
+https://lnkd.in/gY4iFTs4
+
+3️⃣ Create and Connect to a MySQL Database with Amazon RDS:
+https://lnkd.in/g4kDBxCu
+
+4️⃣ Explore Your AWS Costs and Usage with AWS Cost Explorer:
+https://lnkd.in/ghWhXwYr
+
+5️⃣ Build a Log Analytics Solution:
+https://lnkd.in/gym9keVr
+
